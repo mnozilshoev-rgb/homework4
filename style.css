@@ -260,4 +260,31 @@
     align-items: center;
     gap: 15px;
 }
+.footer{
+    width: 100%;
+    height: 430px;
+    background-color: #202329;
+    color: white;
+    display: flex;
+    position: relative;
+}
+.colum1{
+    line-height: 1.8;
+    margin-left: 130px;
+    margin-top: 50px;
+}
+.colum1 input{
+    padding: 7px;
+    margin-top: 10px;
+    color: white !important ;
+    background-color: rgb(152, 150, 150);
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.img32{
+    position: absolute;
+    left: 790px;
+    top: 20px;
+}
+
 
