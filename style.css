@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+.section1{
+    width: 100%;
+    height: 600px;
+    background-color: #FF4029;
+    color: white;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 120px;
+    align-items: center;
+}
+.links {
+    display: flex;
+    gap: 20px;
+    margin-left: 280px;   
+}
+.links a{
+    text-decoration: none;
+    color: white;
+}
+.icon {
+    display: flex;
+
+}
